@@ -1,2 +1,2 @@
 # ExChange
-My first github project about excange api.
+My first github project about exchange api.
